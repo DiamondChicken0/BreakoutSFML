@@ -1,0 +1,3 @@
+C:/Users/ogore/CLionProjects/BreakoutSFML/cmake-build-debug/CMakeFiles/BreakoutSFML.dir
+C:/Users/ogore/CLionProjects/BreakoutSFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ogore/CLionProjects/BreakoutSFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
